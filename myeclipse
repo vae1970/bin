@@ -1,0 +1,4 @@
+#! /bin/bash
+nohup /opt/myeclipse/myeclipse >/dev/null 2>&1 &
+echo -e "\\033[32mmyeclipse is starting..."
+

@@ -1,0 +1,4 @@
+#! /bin/bash
+source $HOME/conf/zsh/profile
+nohup /opt/navicate/navicat112_mysql_cs_x64/start_navicat >/dev/null 2>&1 &
+echo -e "\\033[32mnavicate is starting..."
