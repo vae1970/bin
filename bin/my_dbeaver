@@ -1,0 +1,2 @@
+#! /bin/bash
+setsid /opt/dbeaver/dbeaver-4.2.4/dbeaver

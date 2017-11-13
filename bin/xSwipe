@@ -1,0 +1,4 @@
+#! /bin/bash
+nohup perl /home/vae/workspace/git/xSwipe/xSwipe.pl >/dev/null 2>&1 &
+echo -e "\\033[32mxSwipe is starting..."
+

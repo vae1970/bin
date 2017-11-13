@@ -1,0 +1,4 @@
+#! /bin/bash
+source $HOME/conf/zsh/profile
+nohup /opt/eclipse/eclipse >/dev/null 2>&1 &
+echo -e "\\033[32meclipse is starting..."

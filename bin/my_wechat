@@ -1,0 +1,2 @@
+#! /bin/bash
+setsid /opt/electronic-wechat-linux-x64/electronic-wechat
