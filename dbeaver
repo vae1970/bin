@@ -1,4 +1,0 @@
-#! /bin/bash
-source $HOME/conf/zsh/profile
-nohup /opt/dbeaver/dbeaver_4.0.6/dbeaver >/dev/null 2>&1 &
-echo -e "\\033[32mdbeaver is starting..."

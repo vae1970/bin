@@ -1,3 +1,0 @@
-#! /bin/bash
-nohup /opt/electronic-wechat-linux-x64/electronic-wechat >/dev/null 2>&1 &
-echo -e "\\033[32mwechat is starting..."

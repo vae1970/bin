@@ -1,3 +1,0 @@
-#! /bin/bash
-nohup /opt/Android/android-studio/bin/studio.sh >/dev/null 2>&1 &
-echo -e "\\033[32mAndroid Studio is starting..."
