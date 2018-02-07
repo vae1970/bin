@@ -1,0 +1,7 @@
+#! /bin/bash
+
+echo "admin" | sudo -S service miredo restart
+
+echo "admin" | sudo -S /opt/XX-Net-3.8.7/xx_net.sh restart
+
+echo -e "\\033[32mXX-Net is starting..."
